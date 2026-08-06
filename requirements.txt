@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+fasttext
+numpy<2
+jinja2
+tqdm
+playwright
+defusedxml
