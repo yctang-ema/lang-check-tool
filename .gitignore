@@ -16,3 +16,6 @@ sitemap/
 venv/
 __pycache__/
 .env
+
+# Scan Log
+scan.log
